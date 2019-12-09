@@ -4,7 +4,7 @@ Neural Style Transfer: Generating artwork from images
 
 ### Methodology
 
-The [Artworks dataset](https://www.kaggle.com/ikarus777/best-artworks-of-all-time) was used to perform the following tasks:
+The [Best Artworks of All Time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time)  dataset was used to perform the following tasks:
 
 * Image Classification
 * Neural Style Transfer
