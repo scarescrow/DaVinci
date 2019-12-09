@@ -23,4 +23,4 @@ The VGG model was used to stylize given photographs into the styles of certain a
 
 ![Example 2](NeuralStyleTransfer/iteration3.png)
 
-![Example 3](NeuralStyleTransfer/iteration2.png)
+![Example 3](NeuralStyleTransfer/iteration6.png)
